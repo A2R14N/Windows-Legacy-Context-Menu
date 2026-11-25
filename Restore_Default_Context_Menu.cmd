@@ -1,4 +1,3 @@
-
 @echo off
 title Restore Default Context Menu in Windows 11
 
