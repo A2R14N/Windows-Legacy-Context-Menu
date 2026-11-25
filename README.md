@@ -12,8 +12,8 @@ Simple CMD scripts to switch between the **Legacy Context Menu** and the **Defau
 
 | File | Description |
 |---|---|
-| `Enable_Legacy_Context_Menu` | Restores the classic Windows 10-style context menu. |
-| `Disable_Legacy_Context_Menu` | Restores the default Windows 11 context menu. |
+| `Enable_Legacy_Context_Menu.cmd` | Restores the classic Windows 10-style context menu. |
+| `Disable_Legacy_Context_Menu.cmd` | Restores the default Windows 11 context menu. |
 
 ## Requirements
 
