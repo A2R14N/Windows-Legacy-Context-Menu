@@ -2,6 +2,8 @@
 
 Simple CMD scripts to switch between the **Legacy Context Menu** and the **Default Windows 11 Context Menu**.
 
+Works after the **November 2026 update (KB5132061)**
+
 ## Usage
 
 1. Download or clone this repository.
